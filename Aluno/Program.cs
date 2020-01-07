@@ -32,6 +32,8 @@ namespace Aluno
                 Console.WriteLine("FALTARAM " + (60.00 - nf) + " PONTOS");
             }
 
+            Console.WriteLine("Teste versao Git");
+
         }
     }
 }
