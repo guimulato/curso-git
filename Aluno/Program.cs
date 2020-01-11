@@ -33,6 +33,7 @@ namespace Aluno
             }
 
             Console.WriteLine("Teste versao Git");
+            Console.WriteLine("Teste2");
 
         }
     }
